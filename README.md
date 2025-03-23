@@ -1,3 +1,1 @@
-## testimonial-box-switcher
-
-Testimonial Box
+## Google maps fake data
